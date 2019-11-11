@@ -1,0 +1,14 @@
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.csproj.CoreCompileInputs.cache
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.AssemblyInfoInputs.cache
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.AssemblyInfo.cs
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\bin\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.deps.json
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\bin\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.runtimeconfig.json
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\bin\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.runtimeconfig.dev.json
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\bin\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.dll
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\bin\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.pdb
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.csprojAssemblyReference.cache
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.RazorAssemblyInfo.cache
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.RazorAssemblyInfo.cs
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.RazorTargetAssemblyInfo.cache
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.dll
+D:\Alten\Alten\Alten.Microservice.PingStatus.API\obj\Debug\netcoreapp2.1\Alten.Microservice.PingStatus.API.pdb

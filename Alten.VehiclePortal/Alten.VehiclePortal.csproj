@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\HTML\Customer\customer-View.html" />
+    <None Include="wwwroot\HTML\Customer\show-All-customer.html" />
+    <None Include="wwwroot\HTML\Vehicle\show-All-Vehicle.html" />
+    <None Include="wwwroot\HTML\Vehicle\vehicle-View.html" />
+    <None Include="wwwroot\js\App.js" />
+    <None Include="wwwroot\js\Controllers\Customer\customer-controller.js" />
+    <None Include="wwwroot\js\Controllers\Customer\customer-showall-controller.js" />
+    <None Include="wwwroot\js\Controllers\Vehicle\vehicle-controller.js" />
+    <None Include="wwwroot\js\Controllers\Vehicle\vehicle-showall-controller.js" />
+    <None Include="wwwroot\js\Services\Common\common-client-service.js" />
+    <None Include="wwwroot\js\Services\Common\common-service.js" />
+    <None Include="wwwroot\js\Services\Customer\customer-service.js" />
+    <None Include="wwwroot\js\Services\Vehicle\vehicle-service.js" />
+    <None Include="wwwroot\lib\Scripts\angular-ui-router.js" />
+    <None Include="wwwroot\lib\Scripts\angular.js" />
+    <None Include="wwwroot\lib\Scripts\_references.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.4.10" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Dockerfile - Copy.dockerignore">
+      <DependentUpon>Dockerfile - Copy</DependentUpon>
+    </None>
+  </ItemGroup>
+
+</Project>

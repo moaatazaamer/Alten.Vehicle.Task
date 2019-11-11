@@ -1,0 +1,17 @@
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.deps.json
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.runtimeconfig.json
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.runtimeconfig.dev.json
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.dll
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.dll
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.pdb
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\obj\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.csprojAssemblyReference.cache
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\obj\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.csproj.CoreCompileInputs.cache
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\obj\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.AssemblyInfoInputs.cache
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\obj\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.AssemblyInfo.cs
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\obj\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.csproj.CopyComplete
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\bin\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.pdb
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\obj\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.dll
+D:\Alten\Alten\Alten.Microservice.VehicleAPI.Test\obj\Debug\netcoreapp2.1\Alten.Microservice.VehicleAPI.Test.pdb

@@ -1,0 +1,14 @@
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\bin\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.deps.json
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\bin\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.runtimeconfig.json
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\bin\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.runtimeconfig.dev.json
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\bin\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.dll
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\bin\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.pdb
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.csprojAssemblyReference.cache
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.csproj.CoreCompileInputs.cache
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.RazorAssemblyInfo.cache
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.RazorAssemblyInfo.cs
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.AssemblyInfoInputs.cache
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.AssemblyInfo.cs
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.RazorTargetAssemblyInfo.cache
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.dll
+D:\Alten\Alten\Alten.Microservice.VehicleStatus.API\obj\Release\netcoreapp2.1\Alten.Microservice.VehicleStatus.API.pdb

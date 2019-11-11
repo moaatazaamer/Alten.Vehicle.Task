@@ -1,0 +1,20 @@
+﻿<div controller="customerController" ng-init="init()" ng-form="individualcustomer" >
+    
+    <div class="container">
+        <div class="row">
+           
+            <div class="col-md-2"><input type="text" ng-model="customer.Name" placeholder="name" required /></div>
+            <div class="col-md-2"><input type="text" ng-model="customer.Title" placeholder="title" /></div>
+            <div class="col-md-2"><input type="text" ng-model="customer.Email" placeholder="email" /></div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-6">
+                <a ui-sref="home" ng-click="goBack()" style="cursor:pointer">Back To Home</a>
+            </div>
+            <div class="col-md-6">
+                <input class="btn btn-default" type="button" value="Submit" ng-click="addCustomer($event)" />
+            </div>
+        </div>
+    </div>  
+</div>
